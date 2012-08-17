@@ -1,0 +1,1679 @@
+2012-08-15 09:19:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 09:19:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 09:19:49 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 10:03:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 10:03:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 10:03:09 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 11:02:39 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 11:02:39 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 11:02:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 11:54:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 11:54:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 11:54:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:23:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:23:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:23:26 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:24:00 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:24:00 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:27:51 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:28:42 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:28:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:28:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:28:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:28:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:28:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:28:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:28:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:28:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:28:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 12:28:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:02:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:02:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:02:52 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:12:57 Error: [MissingControllerException] Controller class CategoriecfcsController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:15:33 Error: [MissingControllerException] Controller class CategoriecfcsController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:15:45 Error: [MissingControllerException] Controller class CategoriecfcsController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:36:31 Error: [MissingControllerException] Controller class CategoriecfcsController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:36:31 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:36:31 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:40:38 Error: [MissingControllerException] Controller class CategoriecfcsController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:40:43 Error: [MissingControllerException] Controller class CategoriecfcsController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:40:59 Error: [MissingControllerException] Controller class CategoriecfcsController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:40:59 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:40:59 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:43:31 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:47:29 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:47:29 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:48:07 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:48:09 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:48:09 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:48:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:59:46 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:59:46 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:59:46 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:00:27 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:00:27 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:01:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:01:09 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:02:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:02:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:06:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:06:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:07:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:07:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:10:30 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:10:30 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:11:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:11:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:11:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:11:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:11:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:11:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:11:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:11:51 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:12:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:12:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:15:30 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:51:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:51:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:51:28 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:51:28 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:51:28 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:54:11 Error: [MissingControllerException] Controller class CollectionController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:55:05 Error: [NotFoundException] Invalid collection
+#0 [internal function]: CollectionsController->edit()
+#1 C:\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CollectionsController), Array)
+#2 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-08-15 14:55:05 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 14:55:05 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 14:55:06 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 14:55:06 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 14:55:06 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 14:55:06 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 14:55:06 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 14:55:29 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 14:55:29 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 14:55:29 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 14:55:29 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 14:55:29 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 14:55:29 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 14:55:30 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 14:56:47 Error: [MissingControllerException] Controller class FournisseursController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:56:47 Error: [MissingControllerException] Controller class FournisseursController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:56:48 Error: [MissingControllerException] Controller class FournisseursController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:56:48 Error: [MissingControllerException] Controller class FournisseursController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:56:48 Error: [MissingControllerException] Controller class FournisseursController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:56:48 Error: [MissingControllerException] Controller class FournisseursController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:56:48 Error: [MissingControllerException] Controller class FournisseursController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:56:48 Error: [MissingControllerException] Controller class FournisseursController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:01:50 Error: [NotFoundException] Invalid collection
+#0 [internal function]: CollectionsController->edit()
+#1 C:\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CollectionsController), Array)
+#2 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-08-15 15:02:21 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:02:21 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:02:21 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:02:21 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:02:21 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:02:21 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:02:21 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:04:57 Error: [NotFoundException] Invalid collection
+#0 [internal function]: CollectionsController->edit()
+#1 C:\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CollectionsController), Array)
+#2 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-08-15 15:05:07 Error: [NotFoundException] Invalid collection
+#0 [internal function]: CollectionsController->edit()
+#1 C:\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CollectionsController), Array)
+#2 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-08-15 15:05:08 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:05:08 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:05:08 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:05:08 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:05:08 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:05:08 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:12:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:12:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:12:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:12:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:12:58 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:16:26 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:16:26 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:16:26 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:16:26 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:16:26 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:16:26 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:17:16 Error: [MissingControllerException] Controller class CollectiocccnsController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:17:17 Error: [MissingControllerException] Controller class CollectiocccnsController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:17:17 Error: [MissingControllerException] Controller class CollectiocccnsController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:17:17 Error: [MissingControllerException] Controller class CollectiocccnsController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:17:17 Error: [MissingControllerException] Controller class CollectiocccnsController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:17:17 Error: [MissingControllerException] Controller class CollectiocccnsController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:17:17 Error: [MissingControllerException] Controller class CollectiocccnsController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:17:42 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:17:42 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:17:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:17:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:21:18 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:21:35 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:21:35 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:22:38 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:22:39 Error: [MissingViewException] View file "C:\xampp\htdocs\avedis\app\View\Pages\hoeme.ctp" is missing.
+#0 C:\xampp\htdocs\avedis\lib\Cake\View\View.php(460): View->_getViewFileName('hoeme')
+#1 C:\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(959): View->render('hoeme', NULL)
+#2 C:\xampp\htdocs\avedis\app\Controller\PagesController.php(80): Controller->render('hoeme')
+#3 [internal function]: PagesController->display('hoeme')
+#4 C:\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-08-15 15:23:28 Error: [MissingViewException] View file "C:\xampp\htdocs\avedis\app\View\Pages\homkjhjkhke.ctp" is missing.
+#0 C:\xampp\htdocs\avedis\lib\Cake\View\View.php(460): View->_getViewFileName('homkjhjkhke')
+#1 C:\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(959): View->render('homkjhjkhke', NULL)
+#2 C:\xampp\htdocs\avedis\app\Controller\PagesController.php(80): Controller->render('homkjhjkhke')
+#3 [internal function]: PagesController->display('homkjhjkhke')
+#4 C:\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-08-15 15:27:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:56:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:56:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 09:32:26 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 09:32:26 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:46:54 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:46:54 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:16 Error: [MissingControllerException] Controller class CollectionController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:17 Error: [MissingControllerException] Controller class CollectionController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:17 Error: [MissingControllerException] Controller class CollectionController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:17 Error: [MissingControllerException] Controller class CollectionController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:17 Error: [MissingControllerException] Controller class CollectionController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:17 Error: [MissingControllerException] Controller class CollectionController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:17 Error: [MissingControllerException] Controller class CollectionController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:24 Error: [MissingControllerException] Controller class CollectionController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:24 Error: [MissingControllerException] Controller class CollectionController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:24 Error: [MissingControllerException] Controller class CollectionController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:24 Error: [MissingControllerException] Controller class CollectionController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:24 Error: [MissingControllerException] Controller class CollectionController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:24 Error: [MissingControllerException] Controller class CollectionController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:24 Error: [MissingControllerException] Controller class CollectionController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:26 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 10:47:32 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:47:32 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:47:32 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:47:32 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:47:32 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:47:32 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:51:56 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:51:56 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:51:56 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:51:56 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:51:56 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:51:57 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:51:57 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:55:33 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:55:33 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:55:33 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:55:33 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:55:33 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:55:33 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 10:55:34 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:03:36 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:03:36 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:03:36 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:03:36 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:03:36 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:03:36 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:03:36 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:05:04 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:05:05 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:05:05 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:05:05 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:05:05 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:05:05 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:05:05 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:05:59 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:05:59 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:00 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:00 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:00 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:00 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:00 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:13 Error: [NotFoundException] Invalid collection
+#0 [internal function]: CollectionsController->edit()
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CollectionsController), Array)
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-08-16 11:06:14 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:14 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:14 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:14 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:14 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:14 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:14 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:23 Error: [NotFoundException] Invalid collection
+#0 [internal function]: CollectionsController->view()
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CollectionsController), Array)
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-08-16 11:06:23 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:23 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:23 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:23 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:23 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:23 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:06:24 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:07:52 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:07:52 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:07:52 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:07:52 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:07:52 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:07:52 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:07:52 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:44:05 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 11:44:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 11:44:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 11:44:08 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:44:08 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:44:08 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:44:08 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:44:09 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:44:09 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:44:09 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:44:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 11:48:05 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Collection.categorie_id' in 'on clause'
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(437): PDOStatement->execute(Array)
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(403): DboSource->_execute('SELECT `Collect...', Array)
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(647): DboSource->execute('SELECT `Collect...', Array, Array)
+#3 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(1058): DboSource->fetchAll('SELECT `Collect...', false)
+#4 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Model.php(2653): DboSource->read(Object(Collection), Array)
+#5 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Component\PaginatorComponent.php(172): Model->find('all', Array)
+#6 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#7 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\Controller\CollectionsController.php(25): Controller->paginate()
+#8 [internal function]: CollectionsController->index()
+#9 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CollectionsController), Array)
+#10 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-08-16 11:48:12 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:48:12 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:48:12 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:48:12 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:48:12 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:48:12 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:48:12 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:48:25 Error: [MissingControllerException] Controller class CategoriecfcsController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 11:49:36 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:49:36 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:49:36 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:49:36 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:49:36 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:49:36 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:49:37 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:49:38 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Collection.categorie_id' in 'on clause'
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(437): PDOStatement->execute(Array)
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(403): DboSource->_execute('SELECT `Collect...', Array)
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(647): DboSource->execute('SELECT `Collect...', Array, Array)
+#3 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(1058): DboSource->fetchAll('SELECT `Collect...', false)
+#4 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Model.php(2653): DboSource->read(Object(Collection), Array)
+#5 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Component\PaginatorComponent.php(172): Model->find('all', Array)
+#6 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#7 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\Controller\CollectionsController.php(25): Controller->paginate()
+#8 [internal function]: CollectionsController->index()
+#9 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CollectionsController), Array)
+#10 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-08-16 11:49:46 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:49:46 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:49:46 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:49:46 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:49:46 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:49:46 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:49:46 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:50:03 Error: [MissingControllerException] Controller class CategoriesController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 11:50:03 Error: [MissingControllerException] Controller class CategoriesController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 11:50:03 Error: [MissingControllerException] Controller class CategoriesController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 11:50:03 Error: [MissingControllerException] Controller class CategoriesController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 11:50:03 Error: [MissingControllerException] Controller class CategoriesController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 11:50:03 Error: [MissingControllerException] Controller class CategoriesController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 11:50:03 Error: [MissingControllerException] Controller class CategoriesController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 11:50:04 Error: [MissingControllerException] Controller class CategoriesController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 11:55:20 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Collection.categorie_id' in 'on clause'
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(437): PDOStatement->execute(Array)
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(403): DboSource->_execute('SELECT `Collect...', Array)
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(647): DboSource->execute('SELECT `Collect...', Array, Array)
+#3 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(1058): DboSource->fetchAll('SELECT `Collect...', false)
+#4 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Model.php(2653): DboSource->read(Object(Collection), Array)
+#5 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Component\PaginatorComponent.php(172): Model->find('all', Array)
+#6 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#7 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\Controller\CollectionsController.php(25): Controller->paginate()
+#8 [internal function]: CollectionsController->index()
+#9 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CollectionsController), Array)
+#10 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-08-16 11:55:21 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:55:21 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:55:21 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:55:21 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:55:21 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:57:13 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Collection.categorie_id' in 'on clause'
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(437): PDOStatement->execute(Array)
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(403): DboSource->_execute('SELECT `Collect...', Array)
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(647): DboSource->execute('SELECT `Collect...', Array, Array)
+#3 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(1058): DboSource->fetchAll('SELECT `Collect...', false)
+#4 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Model.php(2653): DboSource->read(Object(Collection), Array)
+#5 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Component\PaginatorComponent.php(172): Model->find('all', Array)
+#6 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#7 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\Controller\CollectionsController.php(25): Controller->paginate()
+#8 [internal function]: CollectionsController->index()
+#9 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CollectionsController), Array)
+#10 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-08-16 11:57:13 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:57:13 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:57:13 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:57:13 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:57:13 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:57:13 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:57:14 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:57:48 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Collection.categorie_id' in 'on clause'
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(437): PDOStatement->execute(Array)
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(403): DboSource->_execute('SELECT `Collect...', Array)
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(647): DboSource->execute('SELECT `Collect...', Array, Array)
+#3 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(1058): DboSource->fetchAll('SELECT `Collect...', false)
+#4 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Model.php(2653): DboSource->read(Object(Collection), Array)
+#5 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Component\PaginatorComponent.php(172): Model->find('all', Array)
+#6 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#7 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\Controller\CollectionsController.php(25): Controller->paginate()
+#8 [internal function]: CollectionsController->index()
+#9 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CollectionsController), Array)
+#10 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-08-16 11:57:49 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:57:49 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:57:49 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:57:49 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:57:49 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:57:49 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:57:49 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:58:01 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:58:01 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:58:01 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:58:01 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:58:01 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:58:01 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 11:58:02 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:01:45 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:01:45 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:01:45 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:01:45 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:01:45 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:03:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 12:03:25 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:03:25 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:03:25 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:03:25 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:03:25 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:05:25 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:05:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 12:05:25 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:05:25 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:05:25 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:05:26 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:07:55 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:07:55 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:07:55 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:07:55 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:07:55 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:10:33 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:10:33 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:10:33 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:10:33 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:10:33 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:48:17 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Collection.categorie_id' in 'on clause'
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(437): PDOStatement->execute(Array)
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(403): DboSource->_execute('SELECT `Collect...', Array)
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(647): DboSource->execute('SELECT `Collect...', Array, Array)
+#3 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(1058): DboSource->fetchAll('SELECT `Collect...', false)
+#4 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Model.php(2653): DboSource->read(Object(Collection), Array)
+#5 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Component\PaginatorComponent.php(172): Model->find('all', Array)
+#6 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#7 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\Controller\CollectionsController.php(25): Controller->paginate()
+#8 [internal function]: CollectionsController->index()
+#9 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CollectionsController), Array)
+#10 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-08-16 12:49:04 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:49:04 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 12:49:05 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 12:49:05 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 12:49:05 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 12:49:07 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 12:49:07 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 20:02:46 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 20:02:51 Error: [NotFoundException] Invalid collection
+#0 [internal function]: CollectionsController->edit()
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CollectionsController), Array)
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-08-16 20:02:51 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 20:02:51 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 20:02:51 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 20:02:51 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 20:02:51 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 20:02:59 Error: [NotFoundException] Invalid collection
+#0 [internal function]: CollectionsController->view()
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CollectionsController), Array)
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-08-16 20:03:00 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 20:03:00 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 20:03:00 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 20:03:00 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 20:03:01 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 20:03:08 Error: [NotFoundException] Invalid collection
+#0 [internal function]: CollectionsController->edit()
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CollectionsController), Array)
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-08-16 20:03:08 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 20:03:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 20:03:08 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 20:03:08 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 20:03:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 20:03:12 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 20:03:12 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 20:03:12 Error: [MissingActionException] Action CollectionsController::img() could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-16 20:03:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-16 20:03:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:03:00 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:03:00 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:03:00 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:03:00 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:03:01 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:03:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:48:33 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:48:33 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:48:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:48:35 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:49:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:49:52 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:49:52 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:49:52 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:49:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:49:52 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:49:57 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Collection.categorie_id' in 'on clause'
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(437): PDOStatement->execute(Array)
+#1 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(403): DboSource->_execute('SELECT `Collect...', Array)
+#2 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(647): DboSource->execute('SELECT `Collect...', Array, Array)
+#3 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Datasource\DboSource.php(1058): DboSource->fetchAll('SELECT `Collect...', false)
+#4 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Model\Model.php(2653): DboSource->read(Object(Collection), Array)
+#5 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Component\PaginatorComponent.php(172): Model->find('all', Array)
+#6 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#7 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\Controller\CollectionsController.php(25): Controller->paginate()
+#8 [internal function]: CollectionsController->index()
+#9 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CollectionsController), Array)
+#10 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(CollectionsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-08-17 01:49:57 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:49:57 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:49:57 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-17 01:49:57 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\Users\GouGou\Desktop\xampp\htdocs\avedis\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
